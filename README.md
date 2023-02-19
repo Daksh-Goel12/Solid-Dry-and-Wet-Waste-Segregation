@@ -1,9 +1,6 @@
 # Solid-Dry-and-Wet-Waste-segregation-bin
 This is a project that I have made in my first year of College. It was a fun learning.
 
-### This is the image of our project
-![image](https://user-images.githubusercontent.com/123328399/218475830-93726428-62e8-488f-a63c-b21b84e3b14a.png)
-
 ## Working 
 We have assembled all the components like IR sensor, Ultrasonic sensor, Soil 
 Moisture sensor with Arduino and did code. We have set intially that the 
@@ -18,3 +15,6 @@ bin is full and will send the message to the LCD screen.
 
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/123328399/219946006-c4dfc4a5-00f7-4716-9788-6155882ae8c6.png)
+
+## Final Image
+![image](https://user-images.githubusercontent.com/123328399/218475830-93726428-62e8-488f-a63c-b21b84e3b14a.png)
