@@ -14,7 +14,7 @@ in every environment. The Ultrasonic sensor will be used to tell how much the
 bin is full and will send the message to the LCD screen.
 
 ## Block Diagram
-![image](https://user-images.githubusercontent.com/123328399/219946006-c4dfc4a5-00f7-4716-9788-6155882ae8c6.png)
+![Diagram](https://user-images.githubusercontent.com/123328399/219946006-c4dfc4a5-00f7-4716-9788-6155882ae8c6.png)
 
 ## Final Image
 ![image](https://user-images.githubusercontent.com/123328399/218475830-93726428-62e8-488f-a63c-b21b84e3b14a.png)
