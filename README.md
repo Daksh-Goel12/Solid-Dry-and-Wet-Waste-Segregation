@@ -5,6 +5,7 @@ This is a project that I have made in my first year of College. It was a fun lea
 - [Problem Statement](#problem-statement)
 - [Demo](#demo)
 - [Blue Print](#blue-print)
+- [Components](#components)
 - [Working](#working)
 
 
@@ -29,6 +30,15 @@ waste disposal.
 
 ## 💭Blue Print
 ![Plan](https://user-images.githubusercontent.com/123328399/224373426-5f2efa44-6309-46d5-a1df-782e8682b57b.png)
+
+## Components
+- Arduino UNO R3
+- Ultrasonic sensor
+- Infrared Sensor
+- Moisture Sensor
+- Servo Motor 
+- Liquid Crystal Display (LCD)
+
 
 ## ⚒Working 
 We have assembled all the components like IR sensor, Ultrasonic sensor, Soil 
