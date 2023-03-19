@@ -174,7 +174,7 @@ void loop()
 
   
 
-  servo1.write(135); // Rotate the servo 90 Deg
+  servo1.write(135); // Rotate the servo to 135 Deg
 
  
  
